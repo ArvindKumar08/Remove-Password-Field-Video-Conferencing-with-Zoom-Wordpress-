@@ -3,6 +3,14 @@ READ THIS FIRST:
 
 THIS IS THE ORIGINAL CODE OF THE PLUGIN. 
 
+To use this:
+
+Head over to Plugins > Plugin EDITOR. 
+On the right hand side of the screen, you will see a dropdown menu which says "Select plugin to edit:". Click on the menu and search for Video Conferencing with Zoom. 
+
+On th right side, you will see the PLUGIN FILES where you may locate and click the file the join-web-browser.php. 
+
+
 You may use this if your plugin malfunctions and you need to return it to its original state.
 You may also use this for the chance to edit the form fields using the code below as you would not be able to edit them or change the language via WPML or any other translation plugin.
 */
